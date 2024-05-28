@@ -6,4 +6,5 @@ Este repositório serve apenas como um teste para exercícios de utilização do
 
 ##Autores
 
-Desenvolvido pela Zuleika
+Desenvolvido pela Zuleika e pelo Pafúncio
+
