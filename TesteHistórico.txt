@@ -5,8 +5,7 @@ Exemplo de histórico de versionamento
 -Inserindo nova linha (commit 3)
 -Inserindo nova linha (commit 4 - Esse não existe mais)
 -Inserindo nova linha (commit 5 - Esse não existe mais)
-=======
+
 -Inserindo nova linha (commit versao-alterada)
 -Inserindo nova linha (commit versao-alterada)
 -Inserindo nova linha (commit versao-alterada)
->>>>>>> versao-alterada
