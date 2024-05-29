@@ -6,7 +6,7 @@ Este repositório serve apenas como um teste para exercícios de utilização do
 
 ## Prints de telas
 
-
+![Print de tela inicial](https://github.com/GabrielCost4/pizza-delicia/blob/master/miniaturas/TelaPrincipal.png)
 
 ## Autores
 
